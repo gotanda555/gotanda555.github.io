@@ -1,0 +1,216 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  text-align: center;
+  font-size: 0.8rem;
+  background: url('images/keyboard-886462_1920.jpg') fixed;
+    background-size: auto;
+}
+
+.header {
+  padding: 170px 30px 80px;
+  height: 100vh;
+  background-color: rgba(25, 25, 120, 0.9);
+}
+
+.site-title-sub {
+  margin: 0 0 30px;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+}
+
+.site-title {
+  margin: 50px;
+  font-size: 4.5rem;
+}
+
+.site-description {
+  margin-bottom: 50px;
+  color: #888;
+}
+
+.button {
+  display: inline-block;
+  width: 200px;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 4px;
+  background-color: #afa58d;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 0.7rem;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+.button-orange {
+  background-color: #f1b400;
+}
+
+.button-black{
+  background-color: #999;
+}
+
+.about {
+  height: 100vh;
+  padding: 80px 30px;
+  background-color: #ffffff;
+  color: #333;
+}
+
+.about-text {
+  width: 600px;
+  margin: 0 auto 30px ;
+  line-height: 2.5;
+  text-align: left;
+}
+
+.in{
+  color:black;
+  font-size:20px;
+  margin-bottom:-40px;
+}
+
+.cv{
+  color:black;
+  font-size:1.0rem;
+}
+
+.line-bottom{
+  color:black;
+  font-size:1.0rem;
+  border-bottom: solid 2px orange;
+  width:48px;
+}
+
+.about-flex{
+  display:flex;
+}
+
+.heading {
+  display: inline-block;
+  margin: 30px 0 15px;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  font-size: 4rem;
+  border-bottom: double 4px #999;
+}
+
+.works {
+  height: 100vh;
+  background-color: #383634;
+  padding: 80px 0 10px;
+}
+
+.works-wrapper {
+  width: 970px;
+  margin: 60px auto 0;
+}
+
+.work-box {
+  float: left;
+  background-color: rgba(100, 100, 100, 0.3);
+  border: 1px solid #333;
+  height:450px;
+  margin:0 10px;
+}
+
+.box1{
+  margin:0 0 0 150px;
+}
+
+.button2{
+  display: inline-block;
+  width: 200px;
+  padding: 4px;
+  margin: 0px 10px 10px 10px;
+  border-radius: 4px;
+  background-color: #afa58d;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 0.7rem;
+}
+
+.work-image {
+  display: block;
+  width: 320px;
+  height:192px;
+  margin:0 auto;
+}
+
+.works-text{
+  line-height:1.2rem;
+}
+
+.size{
+  width:500px;
+  height:400px;
+  margin-top:30px;
+}
+
+.work-description {
+  margin: 20px 0;
+}
+
+.textbox{
+  width:320px;
+  line-height: 1.0;
+}
+
+.work-description .button {
+  width: 60%;
+  margin-top: 20px;
+  padding: 3px;
+}
+
+.button-ghost {
+  border: 2px solid #fff;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.contact {
+  height: 100vh;
+  padding: 80px 0 150px;
+  background-color: rgba(25, 25, 120, 0.9);
+}
+
+.contact-all{
+  display: flex;
+  margin-left:290px;
+}
+
+.contact-image{
+  width:400px;
+  height:400px;
+}
+
+.twitter{
+  padding:0 50px;
+}
+
+.facebook{
+  margin-top:40px;
+}
+
+.contact-mail{
+  width:500px;
+  display:flex;
+  margin: 50px auto 0;
+}
+
+.gmail{
+  width:150px;
+  height:50px;
+}
+
+.hot{
+  font-size: 3.0rem;
+  margin:0 0 0 5px;
+}
