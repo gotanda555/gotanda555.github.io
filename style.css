@@ -265,3 +265,62 @@ html{
   margin: auto;
   text-align: center;
 }
+
+@media screen and (max-width:480px){
+
+.site-title {
+  margin: 10px 10px 50px 0;
+  font-size: 3rem;
+}
+
+.site-title-sub {
+  margin: 0 0 50px;
+  letter-spacing: 1px;
+  font-size: 1.0rem;
+}
+
+#page_top{
+  width: 90px;
+  height: 90px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background: #ef3f98;
+  opacity: 0.6;
+  border-radius: 50%;
+  margin:0 30px 30px 0;
+}
+
+.about {
+  height: 100%;
+  padding: 80px 30px;
+  background-color: #ffffff;
+  color: #333;
+}
+
+.work-image {
+  display: block;
+  width: 320px;
+  height:192px;
+  margin:0 auto;
+}
+
+.about-flex{
+  display:block;
+}
+
+.about-text {
+  width: 300px;
+  margin: 0 auto 30px ;
+  line-height: 2.5;
+  text-align: left;
+}
+
+.in{
+  color:black;
+  font-size:15px;
+  margin-bottom:-40px;
+}
+
+}
+  
