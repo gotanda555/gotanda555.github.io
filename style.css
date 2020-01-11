@@ -391,7 +391,7 @@ html{
 
 }
 
-@media screen and (max-width:414px){
+@media screen and (min-width:414px){
 
 .site-title {
   margin: 10px 10px 50px 0;
