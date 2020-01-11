@@ -117,7 +117,7 @@ body {
   float: left;
   background-color: rgba(100, 100, 100, 0.3);
   border: 1px solid #333;
-  height:450px;
+  height:100%;
   margin:0 10px;
 }
 
