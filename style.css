@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.asd{
+  color:black;
+  height:100px;
+}
+
 body {
   color: #fff;
   text-align: center;
@@ -66,7 +71,7 @@ body {
 
 .about-text {
   width: 600px;
-  margin: 0 auto 30px ;
+  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
@@ -147,6 +152,7 @@ body {
 
 .works-text{
   line-height:1.2rem;
+  padding:0 10px 0;
 }
 
 .size{
@@ -266,6 +272,10 @@ html{
   text-align: center;
 }
 
+.detail{
+  margin-left:105px;
+}
+
 @media screen and (max-width:375px){
 
 .site-title {
@@ -311,7 +321,7 @@ html{
 
 .about-text {
   width: 300px;
-  margin: 0 auto 30px ;
+  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
@@ -361,13 +371,13 @@ html{
 
 .hot{
   font-size: 1.9rem;
-  margin:55px 0 0 5px;
+  margin:50px 0 0 5px;
 }
 
 .gmail{
   width:40px;
   height:40px;
-  margin-left:10px;
+  margin-left:30px;
   margin-top:50px;
 }
 
@@ -389,9 +399,13 @@ html{
   height:100%;
 }
 
+.detail{
+  margin-left:100px;
 }
 
-@media screen and (min-width:414px){
+}
+
+@media screen and (min-width:380px) and (max-width:1024px){
 
 .site-title {
   margin: 10px 10px 50px 0;
@@ -436,7 +450,7 @@ html{
 
 .about-text {
   width: 300px;
-  margin: 0 auto 30px ;
+  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
@@ -512,6 +526,10 @@ html{
 .contact-image{
   width:100%;
   height:100%;
+}
+
+.detail{
+  margin-left:100px;
 }
 }
   
