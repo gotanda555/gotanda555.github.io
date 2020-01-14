@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+span{
+  margin:10px;
+}
+
 .modal-all{
   color:black;
   height:100%;
