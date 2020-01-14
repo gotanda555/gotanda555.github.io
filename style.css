@@ -458,6 +458,12 @@ html{
 
 @media screen and (min-width:380px) and (max-width:1024px){
 
+.modal-title{
+  text-align:center;
+  font-size:1.5rem;
+  border-bottom: solid 1px rgb(239, 239, 239);
+}
+
 .modal-space{
   margin:20px 90px 0;
 }
