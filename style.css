@@ -312,6 +312,12 @@ html{
 
 @media screen and (max-width:375px){
 
+.modal-title{
+  text-align:center;
+  font-size:1.7rem;
+  border-bottom: solid 1px rgb(239, 239, 239);
+}
+
 .modal-space{
   margin:20px 70px 0;
 }
