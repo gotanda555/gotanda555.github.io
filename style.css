@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.fab{
+  font-size:20rem;
+  margin-top:40px;
+}
+
 span{
   margin:10px;
 }
@@ -422,15 +427,20 @@ html{
 
 .twitter{
   padding:0;
-  margin-top:110px;
-  width:200px;
-  height:200px;
+  margin-top:130px;
+  width:130px;
+  height:130px;
 }
 
 .facebook{
-  margin-top:145px;
-  width:130px;
-  height:130px;
+  margin-top:150px;
+  width:90px;
+  height:90px;
+}
+
+.fab{
+  font-size:6.1rem;
+  margin-top:150px;
 }
 
 .contact-image{
@@ -558,15 +568,20 @@ html{
 
 .twitter{
   padding:0;
-  margin-top:110px;
-  width:200px;
-  height:200px;
+  margin-top:130px;
+  width:130px;
+  height:130px;
 }
 
 .facebook{
-  margin-top:145px;
-  width:130px;
-  height:130px;
+  margin-top:150px;
+  width:90px;
+  height:90px;
+}
+
+.fab{
+  font-size:6.1rem;
+  margin-top:150px;
 }
 
 .contact-image{
