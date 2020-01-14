@@ -170,7 +170,7 @@ body {
 
 .works-wrapper {
   width: 970px;
-  margin: 60px auto 0;
+  margin: 60px 200px 0;
 }
 
 .work-box {
@@ -181,9 +181,6 @@ body {
   margin:0 10px;
 }
 
-.box1{
-  margin:0 0 0 150px;
-}
 
 .work-image {
   display: block;
@@ -389,7 +386,7 @@ html{
 }
 
 .works {
-  height: 1400px;
+  height: 1650px;
   background-color: #383634;
   padding: 80px 0 10px;
 }
@@ -530,7 +527,7 @@ html{
 }
 
 .works {
-  height: 1400px;
+  height: 1700px;
   background-color: #383634;
   padding: 80px 0 10px;
 }
