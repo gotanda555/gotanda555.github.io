@@ -30,6 +30,7 @@ span{
   padding:0 0 8px 80px;
   font-size:1rem;
   margin:0;
+  text-align:left;
 }
 
 .modal-space{
@@ -121,7 +122,6 @@ body {
 
 .about-text {
   width: 600px;
-  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
@@ -361,7 +361,6 @@ html{
 
 .about-text {
   width: 300px;
-  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
@@ -498,7 +497,6 @@ html{
 
 .about-text {
   width: 300px;
-  margin: 0 auto 20px ;
   line-height: 2.5;
   text-align: left;
 }
